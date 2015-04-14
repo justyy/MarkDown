@@ -32,9 +32,7 @@ Markdown 不是想要取代 HTML，甚至也没有要和它相近，它的语法
 ![md](http://blog-images.editorially.com.s3.amazonaws.com/content/editorially.png)
 
 上面是HTML语法，下面则是Markdown语法，最终产生的格式一模一样。
-`html
-<div>234234234</div>
-`
+
 
 #全局规范
 
@@ -118,6 +116,8 @@ MarkDown 文件均使用```.md```作为后缀 *(小写字母)*
 
 ##标题
 
+---
+---
 ---
 >一共有六级标题,1-6个#表示
 
